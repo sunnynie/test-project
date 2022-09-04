@@ -42,11 +42,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-			<groupId>com.baomidou</groupId>
-			<artifactId>mybatisplus-spring-boot-starter</artifactId>
-			<version>${mybatis-plus-version}</version>
-		</dependency>
 	</dependencies>
 	<modules>
 		<module>mybatis2cache</module>
